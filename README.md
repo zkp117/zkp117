@@ -3,6 +3,6 @@
 <h2>👩‍💻 FullStack Projects:</h2>
 
 - <b>Python</b>
-  - [Anagram Hunt](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Anagram Hunt](https://github.com/zkp117/PythonAnagramHunt)
 
 <!--
