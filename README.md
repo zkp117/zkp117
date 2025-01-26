@@ -4,6 +4,6 @@
 
 - <b>Python</b>
   - [Anagram Hunt](https://github.com/zkp117/PythonAnagramHunt)
-  - [Math Game]()
+  - [Math Game](https://github.com/zkp117/PythonMathGame)
 
 <!--
