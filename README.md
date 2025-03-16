@@ -14,6 +14,6 @@
   - [MathFacts.com](https://github.com/zkp117/MathFactsHTML)
  
 - <b>Django</b>
-  - [Django-Jokes](www.django-jokes.com)
+  - [Django-Jokes](https://github.com/zkp117/djangojokes.com)
 
 <!--
