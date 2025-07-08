@@ -2,5 +2,8 @@
 
 <h2>👩‍💻 My Projects:</h2>
 
-<b>Play2Learn<b>
+<b>Play2Learn</b>
 - [play2learn.app](https://www.play2learn.app/) & [github storage](https://github.com/zkp117/play2learn)
+
+<b>AllEars</b>
+- coming soon!
