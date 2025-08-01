@@ -6,6 +6,6 @@
 - [play2learn.app](https://www.play2learn.app/) & [github storage](https://github.com/zkp117/play2learn)
   
 <b>Mini Projects (github link only)</b>
-- [Vue Webite](https://github.com/zkp117/Vue-Website)
-- [Python Math Game](https://github.com/zkp117/PythonMathGame)
-- [Python Word Game](https://github.com/zkp117/PythonAnagramHunt)
+- [Python Math Facts](https://github.com/zkp117/PythonMathGame)
+- [HTML Math Facts](https://github.com/zkp117/MathFactsHTML)
+- [Python Anagram Hunt](https://github.com/zkp117/PythonAnagramHunt)
